@@ -1,0 +1,10 @@
+[
+    {
+        "type": "title",
+        "content": "This is a title"
+    },
+    {
+        "type": "text",
+        "content": "This is a text"
+    }
+]

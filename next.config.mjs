@@ -24,10 +24,6 @@ const nextConfig = {
         // The default value is 0 seconds.
         nextImageExportOptimizer_remoteImageCacheTTL: "0",
     },
-
-    experimental: {
-        typedRoutes: true,
-    },
     reactStrictMode: true,
 };
 

@@ -1,0 +1,6 @@
+https://github.com/vercel/next.js/issues/63951
+
+Modal implementation currently (2024-04-07) does not work with static exports.
+If the issue above gets resolved, uncomment lines with modal in @/app/layout.tsx,
+remove underscores from @modal directory and mostly copy @/app/[postId]/page.tsx
+to @/app/@modal/(.)[postId]/page.tsx.
