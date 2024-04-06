@@ -1,5 +1,6 @@
-import SomeMeme from "@/assets/images/meme.jpg";
 import Image from "next-image-export-optimizer";
+
+import SomeMeme from "@/assets/images/meme.jpg";
 
 export default async function Page() {
     return (
