@@ -35,7 +35,9 @@ export default function RootLayout({
                         <ThemeToggle />
                     </div>
                     {/* {modal} */}
-                    <main>{children}</main>
+                    <div className="container mx-auto px-4">
+                        <main>{children}</main>
+                    </div>
                 </ThemeProvider>
             </body>
         </html>

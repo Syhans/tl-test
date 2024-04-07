@@ -6,5 +6,9 @@
     {
         "type": "text",
         "content": "This is a text"
+    },
+    {
+        "type": "image",
+        "content": "meme"
     }
 ]

@@ -6,13 +6,14 @@ import { Button } from "@/components/ui/button";
 
 export default async function Page() {
     return (
-        <div className="flex min-h-screen flex-col items-center justify-center">
-            <Button>
-                <Link href="/1">hello there</Link>
-            </Button>
-            <Button>
-                <Link href="/2">hello there 2</Link>
-            </Button>
+        // <div className="flex min-h-screen flex-col items-center justify-center">
+        <div className="min-h-screen flex flex-col items-center justify-center">
+            <Link href="/1">
+                <Button>hello there</Button>
+            </Link>
+            <Link href="/2">
+                <Button>general kenobi</Button>
+            </Link>
             <Image src={SomeMeme} alt="some meme" />
         </div>
     );
