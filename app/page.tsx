@@ -6,7 +6,6 @@ import { Button } from "@/components/ui/button";
 
 export default async function Page() {
     return (
-        // <div className="flex min-h-screen flex-col items-center justify-center">
         <div className="min-h-screen flex flex-col items-center justify-center">
             <Link href="/1">
                 <Button>hello there</Button>

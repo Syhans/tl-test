@@ -1,10 +1,10 @@
 [
     {
-        "type": "title",
+        "type": "h1",
         "content": "This is a title 2"
     },
     {
-        "type": "text",
+        "type": "P",
         "content": "This is a text 2"
     },
     {

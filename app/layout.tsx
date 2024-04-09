@@ -31,13 +31,11 @@ export default function RootLayout({
                     enableSystem
                     disableTransitionOnChange
                 >
-                    <div className="absolute top-5 right-5">
+                    <div className="absolute top-4 right-4">
                         <ThemeToggle />
                     </div>
                     {/* {modal} */}
-                    <div className="container mx-auto px-4">
-                        <main>{children}</main>
-                    </div>
+                    <main className="container">{children}</main>
                 </ThemeProvider>
             </body>
         </html>

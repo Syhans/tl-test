@@ -1,14 +1,46 @@
 [
     {
-        "type": "title",
+        "type": "h1",
         "content": "This is a title"
     },
     {
-        "type": "text",
+        "type": "p",
         "content": "This is a text"
     },
     {
         "type": "image",
         "content": "meme"
+    },
+    {
+        "type": "h2",
+        "content": "Lorem ipsum"
+    },
+    {
+        "type": "p",
+        "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum."
+    },
+    {
+        "type": "h3",
+        "content": "Lorem ipsum"
+    },
+    {
+        "type": "p",
+        "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum."
+    },
+    {
+        "type": "h4",
+        "content": "Lorem ipsum"
+    },
+    {
+        "type": "p",
+        "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum."
+    },
+    {
+        "type": "Small",
+        "content": "Lorem ipsum"
+    },
+    {
+        "type": "blockquote",
+        "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum."
     }
 ]
