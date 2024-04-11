@@ -13,6 +13,9 @@ export default async function Page() {
             <Link href="/2">
                 <Button>general kenobi</Button>
             </Link>
+            <Link href="/timeline">
+                <Button>you are a bold one</Button>
+            </Link>
             <Image src={SomeMeme} alt="some meme" />
         </div>
     );
